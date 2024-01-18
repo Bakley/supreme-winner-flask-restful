@@ -1,0 +1,6 @@
+CRUD API's endpoint and testing using postman
+Validation and how to handle error, edgecase
+How to use an ORM - SQLAlchemy
+dotenv file .env - helps to manage enviroments (development, staging, testing, production)
+Serilization of data.
+Authentication = User Model [Json Web Token]
