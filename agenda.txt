@@ -1,5 +1,6 @@
-CRUD API's endpoint and testing using postman = Get all, post
+CRUD API's endpoint and testing using postman = Get all, post, put[update], get a single record, Delete[Soft Delete]
 Validation and how to handle error, edgecase
 
 Serilization of data.
 Authentication = User Model [Json Web Token]
+Blueprints in flask
